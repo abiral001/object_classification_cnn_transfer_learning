@@ -1,0 +1,8 @@
+torch
+wandb
+jupyter
+pandas
+matplotlib
+numpy
+opencv
+torchvision
